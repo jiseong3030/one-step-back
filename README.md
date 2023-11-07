@@ -37,8 +37,7 @@
 - JSON<br>
 - Ajax<br>
 - JDK 11.0.15<br>
-- Kakao DEVELOPER API<br>
-- BootPay API
+
 <br><br>
 For Communication,<br>
 - Slack<br>
