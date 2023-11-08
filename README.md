@@ -54,7 +54,7 @@ ErdCloud : https://www.erdcloud.com/d/nW9kiBxhw3HMtfbgE
 23.09.11 ~ 23.09.25 진행됨<br><br>
 1. 에러페이지<br>
 2. 문의페이지<br>
-- 문의 작성 페이지<br>
+- 문의 작성페이지<br>
 3. 게시글 상세보기 페이지<br>
 
 
@@ -63,8 +63,10 @@ ErdCloud : https://www.erdcloud.com/d/nW9kiBxhw3HMtfbgE
 <img width="1080" alt="OneStep백엔드" src="https://github.com/jiseong3030/one-step-back/assets/142298610/8a639a6e-253a-40bc-992e-3703fcfa0613">
 23.10.12 ~ 23.10.30 진행됨<br><br>
 1. 마이페이지<br>
--
-
+- 마이페이지(프로필) 작성
+- 마이페이지(프로필) 수정
+- 이메일 변경
+- 비밀번호 변경
 
 ## 6. 느낀점
 ### 6-1 어려웠던 점 및 개선해야 될 점
