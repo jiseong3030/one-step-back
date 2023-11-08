@@ -50,7 +50,7 @@ ErdCloud : https://www.erdcloud.com/d/nW9kiBxhw3HMtfbgE
 
 ## 5. 담당업무
 ### 5-1 웹 퍼블리싱
-
+<img width="1080" alt="OneStep백엔드" src="https://github.com/jiseong3030/one-step-back/assets/142298610/bc032d50-4c98-429b-8681-00fa4561b841">
 23.09.11 ~ 23.09.25 진행됨<br><br>
 1. 에러페이지<br>
 2. 문의페이지<br>
