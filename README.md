@@ -52,7 +52,10 @@ ErdCloud : https://www.erdcloud.com/d/nW9kiBxhw3HMtfbgE
 ### 5-1 웹 퍼블리싱
 
 23.09.11 ~ 23.09.25 진행됨<br><br>
-
+1. 에러페이지<br>
+2. 문의 페이지<br>
+- 문의 작성페이지<br>
+4. 게시글 상세보기페이지<br>
 
 ### 5-2 백엔드 및 프론트엔드
 
